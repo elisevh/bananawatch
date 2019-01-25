@@ -1,0 +1,34 @@
+.top-div {
+  background-color: #33313b;
+  height: 50px;
+  width: 100%;
+}
+
+.title {
+  background-image: url("images/tittel-img_opt (2).JPG");
+  background-size: auto 100% auto;
+  height: 500px;
+  width: 100%;
+  text-align: center;
+  padding-top: 180px;
+}
+
+.functions {
+  background-color: #5c4d4d;
+  height: 200px;
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Montserrat-black', sans-serif;
+  color: #ffff;
+}
+
+p {
+  font-family: 'Montserrat-light', sans-serif;
+  color: #ffff;
+}
+
+.title-text {
+
+}
